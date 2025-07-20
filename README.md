@@ -61,8 +61,8 @@ A detailed comparison of their performance is provided, highlighting strengths a
 
 Download the project to your local machine:
 
-    git clone https://github.com/your-username/phishing-detection-classifiers.git
-    cd phishing-detection-classifiers
+    git clone https://github.com/your-username/phishing_detection.git
+    cd phishing_detection
 
 Alternatively, you can download the .zip file and extract it manually
 
