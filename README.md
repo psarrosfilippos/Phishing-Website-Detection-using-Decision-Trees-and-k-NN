@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/21332404/README.md)[## Phishing Website Detection using Decision Trees and k-NN
+## Phishing Website Detection using Decision Trees and k-NN
 
 This project focuses on detecting phishing websites through supervised machine learning. Two classifiers were implemented and evaluated: Decision Trees and k-Nearest Neighbors (k-NN). The dataset underwent preprocessing with normalization and was split using the train-test split method. The algorithms were optimized via hyperparameter tuning and evaluated based on accuracy, recall, and F1 score.
 
